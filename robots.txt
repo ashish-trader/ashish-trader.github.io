@@ -1,4 +1,4 @@
-Sitemap: https://ashish.website/sitemap.xml
+Sitemap: https://ashish-trader.github.io/sitemap.xml
 
 User-agent: *
 Allow: /
@@ -56,4 +56,5 @@ Disallow: /
 # Meta AI crawler
 User-agent: meta-externalagent
 Disallow: /
+
 
